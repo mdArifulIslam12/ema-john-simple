@@ -1,0 +1,23 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 30px 25px;
+}
+.summary {
+  text-align: center;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+}
+.other-item p {
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+}
+.grand-price {
+  font-size: 25px;
+  font-weight: 600;
+  margin-top: 0;
+}
